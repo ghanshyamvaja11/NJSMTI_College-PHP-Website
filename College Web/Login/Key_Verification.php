@@ -277,7 +277,7 @@ else
 </center>
                 <p>
             <input type="text" name="key" id="key" placeholder="Secret key *" required><br><br>
-            <center><input type="submit" name="Varify" value="Verify" id="Check"></center>
+            <center><input type="submit" name="Varify" value="Varify" id="Check"></center>
             </fieldset>
         </form>
         <h4 style='color: white; background-color: green;'>Check your Registered Email Inbox.</h4>

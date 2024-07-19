@@ -210,7 +210,7 @@ $path = '../../Images/Courses/MBA/Toppers/';
 $files = scandir($path);
 $files = array_diff(scandir($path), array('.', '..'));
 foreach($files as $file){ ?>
-<center><img src="../../../Images/Courses/MBA/Toppers/<?php echo $file?>" alt="Topper" style="height: 51.9%; width: 69.9%;" class="imgs"></center>
+<center><img src="../../../Images/Courses/MBA/Toppers/<?php echo $file?>" alt="Topper" style="height: 51.9%; width: 86.8%;" class="imgs"></center>
 <?php
 }
 ?>
